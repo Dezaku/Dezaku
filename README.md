@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dezaku&label=Profile%20views&color=8000ff&style=flat" alt="dezaku" /> </p>
 
-- 🌱 I’m currently learning **TypeScript** + **SQL**
+- 🌱 I’m currently learning **Advanced CSS**
 
 - 📫 How to reach me **contact@dezaku.me**
 
